@@ -1,0 +1,1 @@
+const { ExportPDFJob, ExportPDFParams, ExportPDFTargetFormat, ExportPDFResult } = require("@adobe/pdfservices-node-sdk"); console.log("ExportPDFJob:", !!ExportPDFJob, "ExportPDFTargetFormat:", !!ExportPDFTargetFormat);
