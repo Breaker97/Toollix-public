@@ -89,8 +89,8 @@ Before starting, make sure you have:
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/your-username/toollix.io.git
-cd toollix.io
+git clone https://github.com/Breaker97/Toollix-public.git
+cd Toollix-public
 ```
 
 ### 3. Configure Environment Variables
