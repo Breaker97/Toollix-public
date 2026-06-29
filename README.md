@@ -3,7 +3,7 @@
 [![Deployment Status](https://img.shields.io/badge/Vercel-Deployed-success?logo=vercel&logoColor=white&style=flat-square)](https://toollix.io)
 [![Next.js](https://img.shields.io/badge/Next.js-16.2.2-black?logo=next.js&style=flat-square)](https://nextjs.org)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Modern-38B2AC?logo=tailwind-css&style=flat-square)](https://tailwindcss.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=flat-square)](LICENSE)
 
 Toollix.io is a premium, all-in-one suite of over 85+ free online tools designed for creators, developers, and power users. From digital document signing to AI-powered image enhancement, Toollix provides a secure, lightning-fast, and professional experience without watermarks, ads, or hidden fees.
 
@@ -180,6 +180,12 @@ This project is proudly hosted by **VPSDime**.
 If you're looking for reliable VPS hosting, please consider VPSDime.
 
 [https://vpsdime.com/a/4765/linux-vps](https://vpsdime.com/a/4765/linux-vps)
+
+---
+
+## 📄 License
+
+This project is licensed under the GNU Affero General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ---
 
